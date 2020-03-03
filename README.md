@@ -1,2 +1,2 @@
 ## Programozás_1
-*Scratch programozási feladatok*
+_**Scratch** programozási feladatok_
